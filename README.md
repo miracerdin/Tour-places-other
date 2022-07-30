@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## [Click to see the page](https://sass-tour-places.vercel.app/).
 
 ## Available Scripts
 
